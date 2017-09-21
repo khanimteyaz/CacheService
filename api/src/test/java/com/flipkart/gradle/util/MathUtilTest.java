@@ -20,8 +20,4 @@ public class MathUtilTest {
         Assert.assertNotNull("ABCD");
     }
 
-    @Test
-    public void testNull() {
-        Assert.assertNotNull(null);
-    }
 }
