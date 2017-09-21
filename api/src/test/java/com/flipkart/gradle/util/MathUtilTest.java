@@ -12,12 +12,16 @@ import org.junit.runners.JUnit4;
 public class MathUtilTest {
     @Test
     public void testSum() {
-        System.out.println("hahahahah");
        Assert.assertEquals(6, MathUtil.add(4, 2));
     }
 
     @Test
     public void testNotNull() {
         Assert.assertNotNull("ABCD");
+    }
+
+    @Test
+    public void testNull() {
+        Assert.assertNotNull(null);
     }
 }
