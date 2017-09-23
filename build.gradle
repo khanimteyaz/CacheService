@@ -49,8 +49,8 @@ allprojects {
     }
 }
 
+
 subprojects {
     group = 'cache-service'
     version = '1.0.0'
-
 }

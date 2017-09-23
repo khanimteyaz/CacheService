@@ -1,4 +1,4 @@
-package com.flipkart.gradle.util;
+package com.flipkart.gradle.test;
 
 import org.junit.Assert;
 import org.junit.Test;

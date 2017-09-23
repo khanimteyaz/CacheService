@@ -1,4 +1,4 @@
-package com.flipkart.gradle.util;
+package com.flipkart.gradle.test;
 
 /**
  * Created by imteyaz.khan on 22/09/17.

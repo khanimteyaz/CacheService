@@ -1,0 +1,6 @@
+server:
+  port: 9090
+logging:
+  level:
+    org.springframework: DEBUG
+  file: /Users/imteyaz.khan/resources/dev_sandbox/springboot-gradle-sample/log/myapplication.log
